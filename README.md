@@ -2,6 +2,10 @@
 
 Base67 is a binary-to-text encoding designed to travel unescaped through URLs and file names. It is really **Base64 plus 3 signaling symbols**: 64 symbols carry data (6 bits each), and 3 extra symbols sit outside the data to split or mark parts of a message.
 
+## Demo
+
+100. [Base67 converter](https://jnvanderz.github.io/g?base67/poc/demo100.html)
+
 ## Alphabet
 
 ```
